@@ -1,16 +1,16 @@
 {
-  "Growth_and_Development": {
+  "Growth and Development": {
     "EDCI": "Economic Development Capacity Index",
     "pop_growth": "Recent Population Growth",
     "gdp_growth": "Recent GDP Growth"
   },
-  "Effluent_Disposal_Limits": {
+  "Effluent Disposal Limits": {
     "eco_imp_land_mean": "Land Habitat Importance (Average)",
     "eco_imp_land_max": "Land Habitat Importance (Max)",
     "eco_imp_water_mean": "Water Habitat Importance (Average)",
     "eco_imp_water_max": "Water Habitat Importance (Max)"
   },
-  "Extreme_Events": {
+  "Extreme Events": {
     "NRI_value": "Natural Hazard Risk",
     "DW_flood2020_mean": "DW Flood Risk (Avg)",
     "DW_flood2020_max": "DW Flood Risk (Max)",
@@ -19,19 +19,19 @@
     "land_sub_avg": "Land Subsidence (Average)",
     "land_sub_max": "Land Subsidence (Max)"
   },
-  "Access_and_Affordability": {
+  "Access and Affordability": {
     "rec_imp_pct": "Impaired Recreational Waters",
     "violation_points": "Drinking Water Violations",
     "no_DW_access_pct": "Plumbing Poverty",
     "self_supply_pct": "Private Wells",
     "gini": "Income Inequality"
   },
-  "Runoff_Management": {
+  "Runoff Management": {
     "nutrient_imp_pct": "Nutrient Impaired Waters",
     "runoff_max": "Max Monthly Runoff",
     "runoff_total": "Total Annual Runoff"
   },
-  "Supply_Stress": {
+  "Supply Stress": {
     "WASSI": "Supply Stress Index",
     "DW_impaired": "Current Source Impairment",
     "burn_prob_mean": "Wildfire Runoff Probability (Avg)",

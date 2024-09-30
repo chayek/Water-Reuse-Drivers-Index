@@ -1,6 +1,6 @@
 {
-  "website_title": "Test",
-  "description": "TEST Fill in your description. Data is sourced from __organization/website__. Data was published __date__. This data describes ____ conditions across the United States.",
+  "website_title": "Water Reuse Drivers Index",
+  "description": "The Water Reuse Drivers Index was created through collaboration between The Water Research Foundation and the University of Washington's Data Science for Social Good Program. Carefully-selected data sources are used to illustrate which water systems in the United States are experiencing conditions that could make water reuse implementation more beneficial if feasible (i.e. drivers). Note that alternative water source availability and the ability to capture it near where it's needed are not included in this index, only the presence and intensity of water reuse drivers.",
   "initial_index": "initial_index",
   "geo_unit": "PWSID"
 }

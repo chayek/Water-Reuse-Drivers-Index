@@ -4,13 +4,13 @@
     "pop_growth": "Recent Population Growth",
     "gdp_growth": "Recent GDP Growth"
   },
-  "Effluent Disposal Limits": {
-    "eco_imp_land_mean": "Land Habitat Importance (Average)",
-    "eco_imp_land_max": "Land Habitat Importance (Max)",
-    "eco_imp_water_mean": "Water Habitat Importance (Average)",
-    "eco_imp_water_max": "Water Habitat Importance (Max)"
+  "Supply Stress": {
+    "WASSI": "Supply Stress Index",
+    "DW_impaired": "Current Source Impairment",
+    "burn_prob_mean": "Wildfire Runoff Probability (Avg)",
+    "burn_prob_max": "Wildfire Runoff Probability (Max)"
   },
-  "Extreme Events": {
+  "Service Interruptions: Extreme Events": {
     "NRI_value": "Natural Hazard Risk",
     "DW_flood2020_mean": "DW Flood Risk (Avg)",
     "DW_flood2020_max": "DW Flood Risk (Max)",
@@ -19,22 +19,22 @@
     "land_sub_avg": "Land Subsidence (Average)",
     "land_sub_max": "Land Subsidence (Max)"
   },
-  "Access and Affordability": {
+  "Community Access and Impact": {
     "rec_imp_pct": "Impaired Recreational Waters",
     "violation_points": "Drinking Water Violations",
     "no_DW_access_pct": "Plumbing Poverty",
     "self_supply_pct": "Private Wells",
     "gini": "Income Inequality"
   },
+    "Ecosystem Protection: Point Sources": {
+    "eco_imp_land_mean": "Land Habitat Importance (Average)",
+    "eco_imp_land_max": "Land Habitat Importance (Max)",
+    "eco_imp_water_mean": "Water Habitat Importance (Average)",
+    "eco_imp_water_max": "Water Habitat Importance (Max)"
+  },
   "Runoff Management": {
     "nutrient_imp_pct": "Nutrient Impaired Waters",
     "runoff_max": "Max Monthly Runoff",
     "runoff_total": "Total Annual Runoff"
-  },
-  "Supply Stress": {
-    "WASSI": "Supply Stress Index",
-    "DW_impaired": "Current Source Impairment",
-    "burn_prob_mean": "Wildfire Runoff Probability (Avg)",
-    "burn_prob_max": "Wildfire Runoff Probability (Max)"
   }
 }
